@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Apps</string>
+    <string name="watch_movie">Tonton Movie</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tv_show">Serial TV</string>
+
+    <string name="description_poster">Menampilkan Gambar Poster</string>
+    <string name="description_fav_image">Icon untuk menyukai film</string>
+    <string name="movie_language">id-ID</string>
+    <string name="empty_item">Tidak Ada Data</string>
+    <string name="no_content">Tidak Ada Deskripsi</string>
+
+    <string-array name="data_title">
+        <item>Avengers: Infinity War</item>
+        <item>Into the Spider-Verse</item>
+        <item>Black Panther</item>
+        <item>Tomb Raider</item>
+        <item>Mission: Impossible</item>
+        <item>Incredibles 2</item>
+        <item>Aquaman</item>
+        <item>Bumblebee</item>
+        <item>Robin Hood</item>
+        <item>Jurassic World: Fallen Kingdom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Raja TChalla pulang dari Amerika ke negara Wakanda yang tertutup dan berteknologi maju untuk melayani sebagai pemimpin baru negaranya. Namun, TChalla segera menemukan bahwa ia ditantang untuk naik takhta oleh faksi di negaranya sendiri maupun di luar. Menggunakan kekuatan yang disediakan untuk raja-raja Wakandan, TChalla mengasumsikan mantel Black Panther untuk bergabung dengan pacar Nakia, ibu-ratu, saudara perempuan-anak kandungnya, anggota Dora Milaje (pasukan khusus Wakandan) dan seorang agen rahasia Amerika. , untuk mencegah Wakanda diseret ke dalam perang dunia.</item>
+        <item>Lara Croft, putri yang sangat mandiri dari seorang petualang yang hilang, harus mendorong dirinya melampaui batas ketika dia menemukan dirinya di pulau tempat ayahnya menghilang.</item>
+        <item>Ketika misi IMF berakhir dengan buruk, dunia dihadapkan pada konsekuensi yang mengerikan. Ketika Ethan Hunt mengambilnya untuk memenuhi pengarahan aslinya, CIA mulai mempertanyakan kesetiaan dan motifnya. Tim IMF menemukan diri mereka berpacu dengan waktu, diburu oleh para pembunuh ketika berusaha mencegah bencana global.</item>
+        <item>Film Incredibles 2 melanjutkan cerita dari keluarga Bob Parr yang sedang berusaha mempertahankan kehidupan normalnya. Apalagi beban keluarga semakin bertambah ketika putra dan putri mereka Violet, Dash, dan si kecil Jack-Jack. Keinginan Bob untuk hidup normal justru bersebrangan dengan sang istri Helen Parr yang masih tetap memberantas kejahatan. Berbagai konflik sederhana muncul di sini. Apalagi ketika Bob sudah terlihat kesulitan mengawasi anak-anaknya. Sementara itu, di sisi lain, Helen berjuang terus memberantas aksi kejahatan. Ditambah, sebuah penjahat baru akan muncul di tengah-tengah konflik ini. Screenslaver, penjahat yang tengah mengacaukan bumi terus leluasa dan membuat Helen kesulitan. Keluarga “The Incredibles” harus kembali bersatu untuk mengalahkan musuh baru mereka. Apakah para keluarga superhero ini berhasil mengalahkan Screenslaver dan kemudian menyelesaikan masalah keluarga mereka?</item>
+        <item>Pernah menjadi rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati tahta.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di sebuah kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Seorang Tentara Salib yang diperkeras perang dan komandan Moornya melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Tiga tahun setelah jatuhnya Jurassic World, letusan gunung berapi mengancam dinosaurus yang tersisa di isla Nublar, jadi Claire Dearing, mantan manajer taman, merekrut Owen Grady untuk membantu mencegah kepunahan dinosaurus sekali lagi.</item>
+
+    </string-array>
+
+    <array name="data_poster">
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_spider_man</item>
+        <item>@drawable/poster_black_panther</item>
+        <item>@drawable/poster_tomb_rider</item>
+        <item>@drawable/poster_mission_imposible</item>
+        <item>@drawable/poster_incridible_2</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bumbble</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_jurasic</item>
+    </array>
+
+    <string-array name="data_rating">
+        <item>8.3</item>
+        <item>8.4</item>
+        <item>8.0</item>
+        <item>7.8</item>
+        <item>8.8</item>
+        <item>8.6</item>
+        <item>9.0</item>
+        <item>6.8</item>
+        <item>5.8</item>
+        <item>7.8</item>
+    </string-array>
+
+
+    <string-array name="data_title_tv_show">
+        <item>Titans</item>
+        <item>Legacies</item>
+        <item>Tom Clancys Jack Ryan</item>
+        <item>Best Worst Weekend Ever</item>
+        <item>The Rookie</item>
+        <item>Wild District</item>
+        <item>A Million Little Things</item>
+        <item>Black Lightning</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>The Purge</item>
+    </string-array>
+
+    <string-array name="data_description_tv_show">
+        <item>Sebuah tim pahlawan super muda yang dipimpin oleh Nightwing (sebelumnya Robin pertama Batman) dibentuk untuk memerangi kejahatan dan bahaya lainnya.</item>
+        <item>Di tempat di mana para penyihir muda, vampir, dan manusia serigala dibesarkan untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, Lizzie dan Josie Saltzman, antara lain, datang usia menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted.</item>
+        <item>Ketika analis CIA Jack Ryan menemukan serangkaian transfer bank yang mencurigakan, pencariannya atas jawaban menariknya dari keselamatan pekerjaan mejanya dan melontarkannya ke dalam permainan kucing dan tikus yang mematikan di seluruh Eropa dan Timur Tengah, dengan tokoh teroris yang sedang bersiap mempersiapkan untuk serangan besar-besaran terhadap AS dan sekutunya.</item>
+        <item>Lara Croft, putri yang sangat mandiri dari seorang petualang yang hilang, harus mendorong dirinya melampaui batas ketika dia menemukan dirinya di pulau tempat ayahnya menghilang.</item>
+        <item>Memulai dari awal bukanlah hal yang mudah, terutama bagi pria kota kecil John Nolan yang, setelah insiden yang mengubah hidup, mengejar mimpinya menjadi seorang perwira LAPD. Sebagai rookie tertua pasukan, ia bertemu dengan skeptis dari beberapa atasan yang melihatnya hanya sebagai krisis paruh baya berjalan.</item>
+        <item>Setelah menyerah kepada polisi Bogotá, seorang mantan gerilyawan menghindari penjara dengan bekerja secara rahasia untuk menyelidiki seorang penegak korupsi pemerintah yang kejam.</item>
+        <item>Sekelompok teman dari Boston yang merasa terjebak dalam kehidupan mengalami panggilan bangun yang tidak terduga setelah salah satu teman mereka meninggal secara tak terduga.</item>
+        <item>Jefferson Pierce adalah seorang pria yang bergulat dengan sebuah rahasia. Sebagai ayah dari dua putri dan kepala sekolah dari sebuah sekolah menengah charter yang juga berfungsi sebagai tempat yang aman bagi kaum muda di lingkungan New Orleans yang dikuasai oleh kekerasan geng, ia adalah pahlawan bagi komunitasnya.</item>
+        <item>Ketika ulang tahunnya yang ke-16 semakin dekat, Sabrina harus memilih antara dunia penyihir dari keluarganya dan dunia manusia dari teman-temannya. Berdasarkan komik Archie.</item>
+        <item>Berada di Amerika dystopian yang diperintah oleh partai politik totaliter, seri ini mengikuti beberapa karakter yang tampaknya tidak berhubungan yang tinggal di kota kecil. Mengikat mereka bersama adalah penyelamat misterius yang tanpa cela diperlengkapi untuk semua yang dilemparkan malam kepada mereka. Saat jam angin turun dengan nasib tergantung pada keseimbangan, masing-masing karakter dipaksa untuk memperhitungkan masa lalu mereka saat mereka menemukan seberapa jauh mereka akan bertahan hidup malam itu.</item>
+    </string-array>
+
+    <array name="data_poster_tv_show">
+        <item>@drawable/poster_titans</item>
+        <item>@drawable/poster_legacies</item>
+        <item>@drawable/poster_tom</item>
+        <item>@drawable/poster_best_word</item>
+        <item>@drawable/poster_the_rookie</item>
+        <item>@drawable/poster_wild_district</item>
+        <item>@drawable/poster_a_million</item>
+        <item>@drawable/poster_black_light</item>
+        <item>@drawable/poster_sabrina</item>
+        <item>@drawable/poster_the_purge</item>
+    </array>
+
+    <string-array name="data_rating_tv_show">
+        <item>7.3</item>
+        <item>8.0</item>
+        <item>7.0</item>
+        <item>7.8</item>
+        <item>8.2</item>
+        <item>8.1</item>
+        <item>9.0</item>
+        <item>6.5</item>
+        <item>8.8</item>
+        <item>5.8</item>
+    </string-array>
+
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+</resources>
